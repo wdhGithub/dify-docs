@@ -34,7 +34,7 @@ FileNotFoundError: File not found
     进入 api 目录
 
     ```
-    flask reset-encrypt-key-pair
+    poetry run flask reset-encrypt-key-pair
     ```
 
     按照提示进行重置。
